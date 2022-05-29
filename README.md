@@ -1,4 +1,5 @@
 ### Hi there 👋
+Here you'll find a small sample of the projects I've hacked on. I've a Blog for beginners on Computer Graphics based on C programming language you can browse through all of my projects it's beginner friendly and can also go through the blog through the pinned repository named computer graphics.
 
 <!--
 **Rinky6767/Rinky6767** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### I'm Currently learning
+Learning about a library called React which has Component based programming for user Interface and is Declarative in nature.
+![React](https://camo.githubusercontent.com/4e4a3b5c3e9c00501ec866e2f2466c5a6032f838aca5f2cf3b14450e39e8a2f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742532302d2532333230323332612e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642)
