@@ -28,6 +28,7 @@ Currently I'm mixing and matching up new things in frontend with the help of Rea
 
 ###  🔭 Skills
 ![QGIS](https://img.shields.io/badge/qgis-3.24_Tisler-93b023?&style=for-the-badge&logo=qgis&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-100000?style=for-the-badge&logo=git&logoColor=white&labelColor=FF7E47&color=F05032)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
