@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 Currently I'm mixing and matching up new things in frontend with the help of React library and outputs are amazing 😍
 
 ### 📫 How to reach me: ...
-<a href="https://www.rinkymaurya06767@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:rinkymaurya06767@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/rinky-maurya-7913441b5/) 
 
