@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 Currently I'm mixing and matching up new things in frontend with the help of React library and outputs are amazing 😍
 
 ### 📫 How to reach me: ...
-You can mail me on: rinkymaurya06767@gmail.com
+<a href='rinkymaurya06767@gmail.com' target="_blank"><img alt='Email' src='https://img.shields.io/badge/EMAil-100000?style=for-the-badge&logo=Email&logoColor=white&labelColor=black&color=DA113C'/></a>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/rinky-maurya-7913441b5/) 
