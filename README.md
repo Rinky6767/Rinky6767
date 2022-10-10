@@ -24,7 +24,8 @@ Currently I'm mixing and matching up new things in frontend with the help of Rea
 ### 📫 How to reach me: ...
 You can mail me on: rinkymaurya06767@gmail.com
 
-[Here](https://www.linkedin.com/in/rinky-maurya-7913441b5/) ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+](https://www.linkedin.com/in/rinky-maurya-7913441b5/) 
 
 ###  🔭 Skills
 ![QGIS](https://img.shields.io/badge/qgis-3.24_Tisler-93b023?&style=for-the-badge&logo=qgis&logoColor=white)
@@ -35,3 +36,7 @@ You can mail me on: rinkymaurya06767@gmail.com
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://camo.githubusercontent.com/4e4a3b5c3e9c00501ec866e2f2466c5a6032f838aca5f2cf3b14450e39e8a2f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742532302d2532333230323332612e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642)
+![ReactRouter](https://img.shields.io/badge/React_Router-100000?style=for-the-badge&logo=REACT&logoColor=white&labelColor=F46363&color=CA4245)
+![Netlify](https://img.shields.io/badge/Netlify-100000?style=for-the-badge&logo=Netlify&logoColor=white&labelColor=77EDDF&color=00C7B7)
+![MYSQL](https://img.shields.io/badge/MYSQL-100000?style=for-the-badge&logo=MYSQL&logoColor=white&labelColor=3FAAE4&color=4479A1)
+
